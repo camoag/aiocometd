@@ -1,7 +1,7 @@
 Changelog
 =========
 
-(CamoAg FORK) 0.4.5-camoag-1 (2025-06-05)
+(CamoAg FORK) 0.4.5.2 (2025-06-05)
 ------------------
 
 - Pin `aiohttp < 3.12`, as `3.12.7` breaks `aiosfstream` connection
