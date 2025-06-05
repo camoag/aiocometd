@@ -1,6 +1,13 @@
 Changelog
 =========
 
+(CamoAg FORK) 0.4.5-camo-1 (2025-06-05)
+------------------
+
+- Pin `aiohttp < 3.12`, as `3.12.7` breaks `aiosfstream` connection
+- Add support for Python 3.10 (merged to this fork on 2022-12-14)
+
+
 0.4.5 (2019-03-14)
 ------------------
 
